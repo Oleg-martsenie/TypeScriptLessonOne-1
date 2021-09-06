@@ -54,7 +54,7 @@ mas ele retorna a junção dos valores, sendo assim, 23 e não é o que queremos
 
 <h2>##Porque isso ocorre ?</h2>
 
-⇒ Independentemente do tipo de input que tenhamos no nosso HTML, mesmo que seja de númeor, ele sempre vai retornar uma string. Ou seja, quando digitamos o valor <kbd>2</kbd>  ele veio como <kbd>2</kbd> o memos ocorreu com o <kbd>3</kbd>
+⇒ Independentemente do tipo de input que tenhamos no nosso HTML, mesmo que seja de númeor, ele sempre vai retornar uma string. Ou seja, quando digitamos o valor <kbd>2</kbd>  ele veio como <kbd>"2"</kbd> o memos ocorreu com o <kbd>3</kbd>
 
 <hr/>
 <hr/>
